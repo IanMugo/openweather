@@ -1,0 +1,1 @@
+this is a python-django project for an automated weatherapp system using apikeys
